@@ -1,2 +1,3 @@
-# Plan your Airbnb when visit NYC
-Analysis on Airbnb's price and quality in NYC. In addition, calculate distance from Airbnb location to tourist attractions. Apply optimization model (travelling salesperson) to calculate the shortest route. Discuss about the model.  
+# Plan your Airbnb stay when visit NYC
+
+Analysis on Airbnb's price and quality in NYC. In addition, apply an optimization model (traveling salesperson) to calculate the shortest distance between the Airbnb place and tourist attractions in NYC.  
